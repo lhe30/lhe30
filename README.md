@@ -3,11 +3,9 @@
 - 🔭 Hoje eu trabalho com Front-End
 - 🌱 Atualmente Estudando HTML, CSS e JavaScript
 
-<div align="center">
-  <a href="https://github.com/lhe30">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lhe30&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhe30&layout=compact&langs_count=7&theme=dark"/>
-</div>
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lhe30&theme=dark&show_icons=true)
+ ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=lhe30&theme=dark&show_icons=true)
+
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
